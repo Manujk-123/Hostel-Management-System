@@ -23,7 +23,7 @@ A web-based DBMS mini project for automating hostel operations like room booking
 > 📁 Place your screenshots in an `images/` folder. Replace the filenames below with your actual images.
 
 - **Home Screen**  
-  ![https://github.com/Manujk-123/Hostel-Management-System/blob/main/screenshots/Admin%20dashboard.png](images/Home page.png)
+  ![]( https://github.com/Manujk-123/Hostel-Management-System/blob/d32668528de8b585135267994b0cefb3cc818b85/screenshots/Admin%20dashboard.png)
 
 - **User Login**  
   ![](images/user_login.png)
