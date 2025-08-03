@@ -26,7 +26,7 @@ A web-based DBMS mini project for automating hostel operations like room booking
   ![](https://github.com/Manujk-123/Hostel-Management-System/blob/5528e1955b93df90998ce232fa6c476d7c1dbed3/screenshots/home%20page.png)
 
 - **Admin Login**  
-  ![]([images/admin_login.png](https://github.com/Manujk-123/Hostel-Management-System/blob/5528e1955b93df90998ce232fa6c476d7c1dbed3/screenshots/Admin%20login.png))
+  ![](https://github.com/Manujk-123/Hostel-Management-System/blob/5528e1955b93df90998ce232fa6c476d7c1dbed3/screenshots/Admin%20login.png)
 
 - **Admin Dashboard**  
   ![](https://github.com/Manujk-123/Hostel-Management-System/blob/5528e1955b93df90998ce232fa6c476d7c1dbed3/screenshots/Admin%20dashboard.png)
