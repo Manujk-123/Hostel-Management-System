@@ -23,28 +23,16 @@ A web-based DBMS mini project for automating hostel operations like room booking
 > 📁 Place your screenshots in an `images/` folder. Replace the filenames below with your actual images.
 
 - **Home Screen**  
-  ![]( https://github.com/Manujk-123/Hostel-Management-System/blob/d32668528de8b585135267994b0cefb3cc818b85/screenshots/Admin%20dashboard.png)
-
-- **User Login**  
-  ![](images/user_login.png)
+  ![](https://github.com/Manujk-123/Hostel-Management-System/blob/5528e1955b93df90998ce232fa6c476d7c1dbed3/screenshots/home%20page.png)
 
 - **Admin Login**  
-  ![](images/admin_login.png)
+  ![]([images/admin_login.png](https://github.com/Manujk-123/Hostel-Management-System/blob/5528e1955b93df90998ce232fa6c476d7c1dbed3/screenshots/Admin%20login.png))
 
 - **Admin Dashboard**  
-  ![](images/admin_dashboard.png)
-
-- **User Dashboard**  
-  ![](images/user_dashboard.png)
+  ![](https://github.com/Manujk-123/Hostel-Management-System/blob/5528e1955b93df90998ce232fa6c476d7c1dbed3/screenshots/Admin%20dashboard.png)
 
 - **Manage Students**  
-  ![](images/manage_students.png)
-
-- **Change Password**  
-  ![](images/change_password.png)
-
-- **Booking Status**  
-  ![](images/booking_status.png)
+  ![](https://github.com/Manujk-123/Hostel-Management-System/blob/5528e1955b93df90998ce232fa6c476d7c1dbed3/screenshots/manage%20student.png)
 
 ---
 
