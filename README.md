@@ -23,7 +23,7 @@ A web-based DBMS mini project for automating hostel operations like room booking
 > 📁 Place your screenshots in an `images/` folder. Replace the filenames below with your actual images.
 
 - **Home Screen**  
-  ![]("C:\Users\Manu\Documents\screenshots\home page.png")
+  !["C:\Users\Manu\Documents\screenshots\home page.png"](images/Home page.png)
 
 - **User Login**  
   ![](images/user_login.png)
